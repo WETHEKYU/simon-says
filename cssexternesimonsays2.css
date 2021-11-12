@@ -812,9 +812,9 @@ margin-top:30px;}
     outline-offset: 0;margin-top:2px;}
 
 .lienscate {
-    background-color: rgb(36, 36, 36);
-    border: 1px solid #1a1a1a;
-    outline: solid 1px #272020;
+    background-color: #ffffff;
+    border: 1px solid #ffffff;
+    outline: solid 1px #eeefee;
     outline-offset: 0;
     display: flex; flex-direction: row; font-family: 'kiona';
     color: #d9d9d9;
