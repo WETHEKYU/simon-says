@@ -948,7 +948,7 @@ fu:hover{font-family:arial;text-transform:uppercase;font-size:7px;font-weight:70
 display:inline-block;margin-top:-6px;color:var(--white2);height:11px;line-height:11px;border:1px solid #91b1c5;text-shadow:0px 1px #585858;}
 
 pu{font-family:arial;text-transform:uppercase;font-size:7px;font-weight:700;background-color:#a19daf;padding-right:5px; padding-left:5px;display:inline-block;margin-top:-6px;
-color:var(--white2);height:11px;line-height:11px;border:1px solid #46253f;text-shadow:0px 1px #585858;transition:1s all;}
+color:var(--white2);height:11px;line-height:11px;border:1px solid #9794a7;text-shadow:0px 1px #585858;transition:1s all;}
 
 pu:hover{font-family:arial;text-transform:uppercase;font-size:7px;font-weight:700;background-color:#aeaabd;
 padding-right:5px; padding-left:5px;display:inline-block;margin-top:-6px;color:var(--white2);height:11px;line-height:11px;border:1px solid #a8a5b7;text-shadow:0px 1px #585858;}
