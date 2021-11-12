@@ -13,7 +13,7 @@
 height:22px;
 margin-top:-26px;
 position:absolute;
-border:1px solid #1c1c1c;
+border:1px solid #ffffff;
 width:202px;
 overflow:hidden;
 line-height:11px;
@@ -28,7 +28,7 @@ transition:1s all;}
 .ava_pst{width:200px; height:320px; margin:auto;
 opacity:1;
 transition:all 1s;
-border:2px solid #1c1c1c;}
+border:1px solid #f3f3f3;}
 
 .cach_img{border:1px solid var(--couleur205); background-color:var(--white1); padding:5px;
 height:308px; width:188px; margin-top:-322px; margin-left:2px;}
@@ -36,7 +36,7 @@ height:308px; width:188px; margin-top:-322px; margin-left:2px;}
 .pfil_msg{margin-top:24px;}
 
 .pfil_msg .cach_img{position: absolute; opacity:0; transition:opacity 1.3s;}
-
+.sceditor-container textarea
 .pfil_msg:hover .cach_img{opacity:1;}
 
 .pfil_msg:hover .ava_pst{opacity:0.00;}
@@ -64,7 +64,7 @@ text-transform:uppercase; letter-spacing:0px;}
 
 .nm_rg{border:1px solid var(--white1);
 background-color:var(--white3);
-outline:1px solid rgb(36, 36, 36);
+outline:1px solid rgb(255, 255, 255);
 width:202px;
 outline-offset:-3px;
 margin-left:0px;
