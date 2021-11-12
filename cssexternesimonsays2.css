@@ -556,27 +556,27 @@ text-orientation: upright; border:1px solid rgba(80,80,80,0.2); background-color
 
 /****  PRE LIENS  ****/
 
-.pl_ct{width:520px; background-color:#191919; border:1px solid #161616; margin:auto;}
+.pl_ct{width:520px; background-color:#f3f3f3; border:1px solid #eeefee; margin:auto;}
 
 .pl_ct2{width:490px; background-color:var(--white3); margin:auto; padding-top:15px;}
 
-.pl_tt{width:430px; background:linear-gradient(15deg, #242424,#161616); margin:auto;
-outline:3px double #242424;outline-offset:2px; text-align:center; height:35px; line-height:30px; font-size:33px; font-family:made saonara; text-transform:lowercase; letter-spacing:1px; color:white;}
+.pl_tt{width:430px; background:linear-gradient(15deg, #8aa9bb,#a19daf); margin:auto;
+outline:1px double #e5e5e5;outline-offset:2px; text-align:center; height:30px; line-height:30px; font-size:20px; font-family:dorris; text-transform:lowercase; letter-spacing:1px; color:white;}
 
 .pl_2{display:flex;}
 
 .pl_c1{display:flex; flex-direction:column; width:250px; margin-left:6px; border:0px solid;}
 
-.pl_inf{border:1px solid #191919; width:195px; padding-right:5px; padding-left:5px;
-padding-top:5px;padding-bottom:5px;margin:auto;background-color:var(--white3);height:120px; outline:2px solid #202020; overflow: auto;}
+.pl_inf{border:1px solid #eeefee; width:195px; padding-right:5px; padding-left:5px;
+padding-top:5px;padding-bottom:5px;margin:auto;background-color:#fff;height:120px; outline:2px solid #f3f3f3; overflow: auto;}
 
 .pl_i{display:flex; justify-content:space-around; margin:0px 20px;}
 
-.pl_img{width:60px; height:60px; outline:3px double white;filter:grayscale(1) invert(10%) sepia(49%) saturate(307%) hue-rotate(230deg) brightness(36%) contrast(98%);}
+.pl_img{width:60px; height:60px; outline:3px double #e1e1e1;}
 
-.pl_txt{border:1px solid rgba(60, 42, 75,0.5); width:193px; padding-right:6px; padding-left:6px; margin:auto;background-color:var(--white3);height:200px; outline:2px solid #202020; padding-top:4px; padding-bottom:4px; overflow: auto;}
+.pl_txt{border:1px solid #eeefee; width:193px; padding-right:6px; padding-left:6px; margin:auto;background-color:#fff;height:200px; outline:2px solid #f3f3f3; padding-top:4px; padding-bottom:4px; overflow: auto;}
 
-ss{line-height:17px; background-color:#46253f; border:1px solid #46253f; padding:1px 4px; color: white; text-transform:uppercase; font-size:7px; letter-spacing:1px; font-weight:600;}
+ss{line-height:17px; background-color:#8ca8ba; border:1px solid #8ca8ba; padding:1px 4px; color: white; text-transform:uppercase; font-size:7px; letter-spacing:1px; font-weight:600;}
 
 xx{line-height:17px; background-color:#a19daf; border:1px solid #a19daf; padding:1px 4px; color: white; text-transform:uppercase; font-size:7px; letter-spacing:1px; font-weight:600;}
 
