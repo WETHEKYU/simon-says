@@ -977,9 +977,9 @@ hh{color:#dadada; font-style:italic;transition:1s all;}
 }
 #nv_membre{text-align:center;margin-left:0px; margin-bottom:-15px;}
 #nv_membre a{font-family:Muli; text-transform:uppercase; font-size:7px; letter-spacing:5px; line-height:30px; }
-.ss_qeel{width:764px; height:70px; border: 1px solid #1a1a1a;
-    outline: solid 1px #272020;
-    outline-offset: 0;padding:5px; margin:auto;text-align:center;background-color:rgb(36, 36, 36);margin-top:20px;overflow-y:hidden;}
+.ss_qeel{width:764px; height:70px; border: 1px solid #ffffff;
+    outline: solid 1px #eeefee;
+    outline-offset: 0;padding:5px; margin:auto;text-align:center;background-color:#ffffff;margin-top:20px;overflow-y:hidden;}
 
 .imgs_mdm{display:flex; justify-content:space-around;margin-right:255px; margin-left:255px;}
 
