@@ -719,9 +719,9 @@ margin:auto; width:440px; padding:20px; padding-top:15px;position:relative; heig
 
 .thHead{
     background-image: none;
-    background-color: #131111;
-    border: 1px solid #131111;
-    outline: 1px solid #1c1c1c;
+    background-color: #ffffff;
+    border: 1px solid #eeefee00;
+    outline: 1px solid #eeefee;
     height: 30px;
     line-height: 28px;
     text-transform: uppercase;
