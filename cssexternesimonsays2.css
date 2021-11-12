@@ -832,10 +832,10 @@ margin-bottom:-1px;
 
 
 
-.cate1, .cate2, .cate3, .cate4, .cate5, .cate6 {outline: solid 1px #272020;
+.cate1, .cate2, .cate3, .cate4, .cate5, .cate6 {outline: solid 1px #ffffff;
     outline-offset: 0;
-    box-shadow: 0 0 0 1px #1c1c1c;
-    text-shadow: 1px 1px #2b2b2b;
+    box-shadow: 0 0 0 1px #ffffff;
+    text-shadow: 1px 1px #818181;
     margin-bottom: 10px;
     padding: 8px;
     transition: 2s all;
@@ -844,12 +844,12 @@ margin-bottom:-1px;
     text-align: center;
     color: #ffffff;
     opacity: 0.8;
-    font-size: 19px;
-    font-family: 'love';
-    text-transform: lowercase;
+    font-size: 16px;
+    font-family: 'arial black';
+    text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 800;
-    border: 1px solid #1a1a1a;
+    border: 1px solid #ffffff;
 }
 .cate1:hover, .cate2:hover, .cate3:hover, .cate4:hover, .cate5:hover, .cate6:hover {letter-spacing:10px;}
 .cate1, .cate2, .cate3, .cate4, .cate5, .cate6 {
@@ -893,12 +893,12 @@ padding-top:11px;
 
 .qeel {
     height: 190px;
-   border: 1px solid #1a1a1a;
-    outline: solid 1px #272020;
+   border: 1px solid #ffffff;
+    outline: solid 1px #eeefee;
     outline-offset: 0;
     display: flex;
     justify-content: space-around;
-    background-color: rgb(36, 36, 36);
+    background-color: #ffffff;
 }
 .qeel_col1{display:flex; flex-direction:column; margin-left:-10px;margin-top:3px;}
 
@@ -908,12 +908,12 @@ padding-top:11px;
 
 .qeel_img:hover{filter:grayscale(1); width:50px;}
 .qeel_tr{width:170px; height:1px; background-color:#1f1919;margin:auto;margin-top:8px;}
-.groupes_txt{border: 1px solid #171717;background-color: #1c1c1c; width:253px; height:50px; margin:auto; margin-bottom:15px; padding-right:5px; 
+.groupes_txt{border: 1px solid #f1f1f1;background-color: #f5f5f5; width:253px; height:50px; margin:auto; margin-bottom:15px; padding-right:5px; 
   padding-left:5px; padding-bottom:5px; height:50px;text-align:justify;text-transform:lowercase;}
 #co1_qeel span{color:var(--grey9);}
 .groupes_txt2 {
-    border: 1px solid #171717;
-    background-color: #1c1c1c;
+    border: 1px solid #f1f1f1;
+    background-color: #f5f5f5;
     width: 253px;
     margin: auto;
     margin-bottom: 10px;
