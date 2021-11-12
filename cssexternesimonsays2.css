@@ -730,7 +730,7 @@ margin:auto; width:440px; padding:20px; padding-top:15px;position:relative; heig
     font-size: 8px!important;}
 .thHead2{margin-top:19px;margin-bottom:-10px;}
 
-.thCornerR, .thCornerL{background-image:none; background-color:var(--couleur202); border:0px solid var(--couleur202); outline:1px solid var(--couleur202);outline-offset:-1px; height:30px; line-height:28px; text-transform:uppercase; letter-spacing:2px; color:var(--couleur203); font-size:8px!important;}
+.thCornerR, .thCornerL{background-image:none; background-color:var(--couleur202); border:0px solid var(--couleur202); outline:1px solid var(--couleur202);outline-offset:-1px; height:30px; line-height:28px; text-transform:uppercase; letter-spacing:2px; color:#fff; font-size:8px!important;}
 
 .liteoption, .mainoption{color:var(--grey15)!important; margin-bottom:5px;}
 .postdetails{text-transform:lowercase; color:var(--grey4)!important;}
