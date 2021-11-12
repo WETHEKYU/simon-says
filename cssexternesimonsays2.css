@@ -814,7 +814,7 @@ margin-top:30px;}
     display: flex; flex-direction: row; font-family: 'kiona';
     color: #d9d9d9;
     font-size: 8px;justify-content: space-evenly;letter-spacing: 3px;padding: 7px;text-transform: uppercase; margin-top:4px;}
-.lienscate a {font-family: kiona!important; color: var(--couleur201)!important;}
+.lienscate a {font-family: kiona!important; color: #a09daf!important;}
 
 .border-forum {
     background-color: #ffffff;
