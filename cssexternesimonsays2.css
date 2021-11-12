@@ -453,12 +453,12 @@ margin-top:-10px; position:relative;}
 .btt_ctt2{margin:auto; 
 text-align:justify; 
 overflow-y:scroll; overflow-x:hidden;
-border:1px solid #151515; 
+border:1px solid #fff0; 
 width:450px; 
 height:395px;
 margin:auto;
 padding:7px;
-background-color:#181818;
+background-color:#fff0;
 margin-top:-10px; position:relative;}
 
 #content_girls{display: none;  border:0px solid; width:440px;}
@@ -580,7 +580,7 @@ ss{line-height:17px; background-color:#46253f; border:1px solid #46253f; padding
 
 xx{line-height:17px; background-color:#a19daf; border:1px solid #a19daf; padding:1px 4px; color: white; text-transform:uppercase; font-size:7px; letter-spacing:1px; font-weight:600;}
 
-.sc_txt{border:1px solid rgb(241, 241, 241); width:249px;padding-right:6px;padding-left:6px; margin:auto;background-color:var(--white3);height:195px;outline:2px solid #191919;padding-top:4px;padding-bottom:4px;margin-top:-10px;overflow-y:auto;}
+.sc_txt{border:1px solid rgb(241, 241, 241); width:249px;padding-right:6px;padding-left:6px; margin:auto;background-color:#fff;height:195px;outline:2px solid #f3f3f3; color: #919191; padding-top:4px;padding-bottom:4px;margin-top:-10px;overflow-y:auto;}
 
 
 /***** MODELE FICHE RP ****/
@@ -685,7 +685,7 @@ text-transform:uppercase;
 background-color:#a19daf; 
 padding:3px 7px;
 border:1px solid #a19daf;
-color:#d9dcde;
+color:#fff;
 text-shadow:1px 1px #8f8c9d; }
 
 .fp_sa{text-align:center;
