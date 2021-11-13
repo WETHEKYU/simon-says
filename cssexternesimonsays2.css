@@ -981,7 +981,7 @@ hh{color:#dadada; font-style:italic;transition:1s all;}
 
 .imgs_mdm{display:flex; justify-content:space-around;margin-right:255px; margin-left:255px;}
 
-.mdm_qeel{width:55px; height:30px; object-fit:cover;border:1px solid var(--couleur205);transition:1s all; filter: grayscale(1) invert(30%) sepia(99%) saturate(238%) hue-rotate(337deg) brightness(55%) contrast(103%);}
+.mdm_qeel{width:55px; height:30px; object-fit:cover;border:1px solid var(--couleur205);transition:1s all; filter: grayscale(1) invert(37%) sepia(10%) saturate(389%) hue-rotate(210deg) brightness(123%) contrast(98%);}
 
 .mdm_qeel:hover{width:45px; height:60px;filter: none;}
 
