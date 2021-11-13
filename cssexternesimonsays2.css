@@ -902,7 +902,9 @@ padding-top:11px;
 .qeel_img{width:60px; height:60px; object-fit:cover;border-radius:50px;transition: 1s all;}
 
 .qeel_img:hover{filter:grayscale(1);}
-.qeel_tr{width:170px; height:1px; background-color:#1f1919;margin:auto;margin-top:8px;}
+.qeel_tr{width:170px; height:1px; background-color:rgba(160, 157, 175,0.1);margin:auto;margin-top:8px; margin-bottom:16px;}
+
+.qeel_col2 .imgs_qeel{margin-top:2px;}
 .groupes_txt{border: 1px solid #f1f1f1;background-color: #f5f5f5; width:253px; height:50px; margin:auto; margin-bottom:15px; padding-right:5px; 
   padding-left:5px; padding-bottom:5px; height:50px;text-align:justify;text-transform:lowercase;}
 #co1_qeel span{color:var(--grey9);}
