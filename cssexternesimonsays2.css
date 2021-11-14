@@ -561,6 +561,7 @@ text-orientation: upright; border:1px solid rgba(80,80,80,0.2); background-color
 
 .pl_tt{width:430px; background:linear-gradient(15deg, #8aa9bb,#a19daf); margin:auto;
 outline:1px double #e5e5e5;outline-offset:2px; text-align:center; height:30px; line-height:30px; font-size:20px; font-family:dorris; text-transform:lowercase; letter-spacing:1px; color:white;}
+.pl_tt a{color:#fff;}
 
 .pl_2{display:flex;}
 
