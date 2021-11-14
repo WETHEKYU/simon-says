@@ -898,7 +898,7 @@ padding-top:11px;
 
 .imgs_qeel{display:flex; width:270px;justify-content:space-around; margin-top:10px;margin:10px 30px; }
 
-.qeel_img{width:60px; height:60px; object-fit:cover;border-radius:50px;transition: 1s all;}
+.qeel_img{width:60px; height:60px; object-fit:cover;border-radius:50px;opacity:0.9;transition: 1s all;}
 
 .qeel_img:hover{filter:grayscale(1);}
 .qeel_tr{width:170px; height:1px; background-color:rgba(160, 157, 175,0.1);margin:auto;margin-top:8px; margin-bottom:16px;}
