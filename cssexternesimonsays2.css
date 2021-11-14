@@ -583,7 +583,7 @@ ss{font-family:arial;font-weight:700;font-size:7px;text-transform:uppercase;back
 
 /***** MODELE FICHE RP ****/
 
-.rp_con{border:1px solid #342c5161; padding:15px;background-color:#fff;outline:2px solid #f3f3f3;color:#919191; width:470px;margin:auto; max-height:520px;}
+.rp_con{border:1px solid rgba(161, 158, 176,0.3); padding:15px;background-color:#fff;outline:2px solid #f3f3f3;color:#919191; width:470px;margin:auto;margin-top:2px; max-height:522px;}
 .s_a_r{display:flex;}
 
 .ma_tr{width:330px; height:1.5px; background-color:var(--couleur205);
