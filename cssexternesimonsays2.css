@@ -62,9 +62,9 @@ text-transform:uppercase; letter-spacing:0px;}
 }
 
 
-.nm_rg{border:1px solid #f3f3f3;
-background-color:#fff;
-outline:1px solid rgb(243, 243, 243);
+.nm_rg{border:1px solid #fff;
+background-color:#f3f3f3;
+outline:1px solid #fff;
 width:202px;
 outline-offset:-3px;
 margin-left:0px;
