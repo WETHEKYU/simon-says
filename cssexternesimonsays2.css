@@ -1084,7 +1084,7 @@ pseudo {float: right; font-weight: 600; text-transform: lowercase;}
 TEXT-ALIGN: LEFT;letter-spacing: 3px;color: var(--color-text);padding: 15px 1px 10px 19px;outline: none;width: 100%;position: relative;z-index: 52;}
 .jrnl3{background-image: url(https://64.media.tumblr.com/94e607911adb8e87ea4d92656116d3c0/tumblr_o31pw7EbW11u7gnm9o1_500.gifv);
     width: 543px;height: 42px;position: absolute;margin-top: -44px;z-index: 51;margin-left: -11px;background-position-y: -38px;}
-.jrnl4>img{object-fit:cover;width:200px;height: 363px;opacity:0.6;float:left;margin-right: 10px;display: block;}
+img.jrnl4{object-fit:cover;width:200px;height: 363px;opacity:0.6;float:left;margin-right: 10px;display: block;}
 .fp_2.jrnl1>h2{text-transform: uppercase;color: var(--grey13);font-size: 8px;font-weight: 800;letter-spacing: 1px;
     font-family: 'Roboto';line-height: 100%;display: inline-block;}
 .fp_2.jrnl1>h3{text-transform: uppercase;color: var(--grey13);font-size: 8px;font-weight: 800;letter-spacing: 1px;
