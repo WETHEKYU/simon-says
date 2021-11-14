@@ -387,7 +387,7 @@ line-height:18px;color:var(--grey17);}
 .moodboard{width:252px; color:var(--grey4); margin:auto; text-transform:lowercase;}
 
 .moodboard2{display:flex; justify-content:space-around; margin:0px 80px;}
-.mood_mg{width:50px; height:50px; object-fit:cover; border-radius:50px; border:9px solid #1c1c1c; opacity:0.7;}
+.mood_mg{width:50px; height:50px; object-fit:cover; border-radius:50px; border:9px solid rgb(138, 169, 187); opacity:0.7;}
 
 
 /***** MODELE STAFF   ******/
