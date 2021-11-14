@@ -1144,7 +1144,7 @@ transition: 1s all;
 .mpava {background-color: var(--white3);border: 1px solid var(--white1);outline: 1px solid var(--grey15);outline-offset: -3px; padding: 3px; width:154px;}
 .mpava img{height: 140px;object-fit: cover;opacity: 0.8;width: 153px;}
 
-.mpliste {background-color: var(--couleur201);border: 1px solid var(--white3);outline: 1px solid var(--white3);color: var(--grey15);font-family: fugaz one;text-transform: uppercase;outline-offset: -3px;padding: 4px 5px; width: 100%;}
+.mpliste {background-color: rgba(161, 158, 176,0.9);border: 1px solid var(--white3);outline: 1px solid rgb(161, 158, 176);color: #fff;font-family: fugaz one;text-transform: uppercase;outline-offset: -3px;padding: 4px 5px; width: 100%;}
 .mptext {text-align: justify; background-color: var(--white3);border: 1px solid var(--white1);outline: 1px solid var(--grey15);outline-offset: -3px;padding: 20px;margin-right: 10px;overflow: auto;margin-top: -5px;height:258px;}
 .mpr_t {background-color: var(--white3);border: 1px solid var(--white1);outline: 1px solid var(--grey15);outline-offset: -3px;padding: 20px;overflow: auto;margin-top: -5px;height:106px;}
 .mpsujet {background-color: var(--white3);border-top: 3px solid var(--couleur203);color: var(--couleur104);font-family: 'Bebas Neue';font-size: 8px!important;
