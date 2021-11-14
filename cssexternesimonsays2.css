@@ -1079,4 +1079,4 @@ sce {text-transform: uppercase; color: var(--grey13); letter-spacing:-1px; font-
 pseudo {float: right; font-weight: 600; text-transform: lowercase;}
 
 /*-------------------------------------------------- CODAGE JOURNAL --------------------------------------------------*/
-.fp_2 jrnl1{outline:none;max-height: fit-content;display: inline-block;padding: 0px 10px 10px 10px;text-align: justify;width: 522px;}
+.fp_2.jrnl1{outline:none;max-height: fit-content;display: inline-block;padding: 0px 10px 10px 10px;text-align: justify;width: 522px;}
