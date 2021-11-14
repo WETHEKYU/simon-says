@@ -1080,3 +1080,5 @@ pseudo {float: right; font-weight: 600; text-transform: lowercase;}
 
 /*-------------------------------------------------- CODAGE JOURNAL --------------------------------------------------*/
 .fp_2.jrnl1{outline:none;max-height: fit-content;display: inline-block;padding: 0px 10px 10px 10px;text-align: justify;width: 522px;}
+.fp_2.jrnl2{font-family: kaftan;background: -webkit-linear-gradient(-170deg,#8aa9bb,#a19daf);margin-top: -3px;opacity: 0.9;margin-left: -12px;
+TEXT-ALIGN: LEFT;letter-spacing: 3px;color: var(--color-text);padding: 15px 1px 10px 19px;outline: none;width: 100%;position: relative;z-index: 52;}
