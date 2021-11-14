@@ -413,15 +413,15 @@ background-color:#f3f3f3;}
 
 .btt_h{display:flex; justify-content:space-between;}
 
-.btt_tt{font-size:35px; margin-top:32px; margin-left:30px; font-family:dorris; color: #8aa9bb; transition:all 1s;}
+.btt_tt{font-size:35px; margin-top:44px; margin-left:30px; font-family:dorris; color: rgba(161, 158, 176,0.7); transition:all 1s;}
 
 .btt_tt:hover{color: #a09daf; }
 
-.btt_img{width:100px; height:100px; object-fit:cover; margin-right:60px; border-radius:100px; margin-top:10px; transition:1s all;}
-.btt_img:hover{filter: blur(0.6px) grayscale(80%);}
+.btt_img{width:100px; height:100px; object-fit:cover; margin-right:60px; border-radius:100px; margin-top:10px;opacity:0.9; transition:1s all;}
+.btt_img:hover{filter: blur(0.5px) grayscale(80%);}
 
 
-.btt_oglt{display: flex; flex-direction: row; justify-content: space-around; text-align: center; margin-right:250px; margin-left:50px; margin-top:-60px;}
+.btt_oglt{display: flex; flex-direction: row; justify-content: space-around; text-align: center; margin-right:229px; margin-left:50px; margin-top:-60px;}
 
 .btt_oglt1{width: 100px; 
 font-size:7px; 
