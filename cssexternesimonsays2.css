@@ -227,7 +227,7 @@ display:inline-block;
 #field_id1 span.gen{display:none;}
 
 /* FRUITZ */
-#field_id6{position:absolute; top:6px; left:400px; background-color:rgba(26,26,26,0.3); width:30px; height:30px; border-radius:20px; border:1px solid rgba(26,26,26,0.5);}
+#field_id6{position:absolute; top:33px; left:400px; background-color:rgba(26,26,26,0.3); width:30px; height:30px; border-radius:20px; border:1px solid rgba(26,26,26,0.5);}
 #field_id6 img{margin-left:-463px; margin-top:6px;}
 #field_id6 span{display:none;}
 
