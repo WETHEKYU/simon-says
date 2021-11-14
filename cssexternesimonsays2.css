@@ -36,7 +36,7 @@ height:308px; width:188px; margin-top:-322px; margin-left:2px;}
 .pfil_msg{margin-top:24px;}
 
 .pfil_msg .cach_img{position: absolute; opacity:0; transition:opacity 1.3s;}
-.sceditor-container textarea
+
 .pfil_msg:hover .cach_img{opacity:1;}
 
 .pfil_msg:hover .ava_pst{opacity:0.00;}
