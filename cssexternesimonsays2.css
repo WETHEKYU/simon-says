@@ -1052,8 +1052,8 @@ hh{color:#dadada; font-style:italic;transition:1s all;}
 .t_2{background-color: #fff; color: #919191;padding: 0px 10px;margin-top: 5px;font-size: 7px; border-radius: 3px;display: inline-block; letter-spacing:2px;transition: 2s all;} 
 .t_2:hover {letter-spacing:5px; font-weight:600;}
 t_3, t_4 {
-    background-color: rgb(138, 169, 187);
-    border: 1px solid rgb(68 34 62);
+    background-color: rgba(138, 169, 187,0.9);
+    border: 1px solid rgba(138, 169, 187);
     color: #e7e7dd;
     text-shadow: 1px 1px 1px #291425;
     display: inline-block;
@@ -1068,9 +1068,9 @@ t_3, t_4 {
     margin-top: 4px;
 }
 t_4 {
-    background-color: rgb(161, 158, 176)!important;
+    background-color: rgba(161, 158, 176,0.9)!important;
     text-shadow: 1px 1px black;
-    border: 1px solid #000000!important;
+    border: 1px solid rgb(161, 158, 176)!important;
     float: left;
 }
 pris {text-transform: uppercase; font-weight: bold; color: var(--couleur201);} 
