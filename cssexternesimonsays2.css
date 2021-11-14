@@ -44,7 +44,7 @@ height:308px; width:188px; margin-top:-322px; margin-left:2px;}
 
 .fc_cps{color:#9F9EB0; font-size:15px; margin-bottom:-12px; text-align:center;
 font-family:bebas neue;
-text-transform:uppercase; letter-spacing:0px;}
+text-transform:uppercase; letter-spacing:0px;max-width:130px;margin:auto;}
 
 .cred_cps{text-align:center; margin-top:5px; margin-bottom:0px; font-style:italic; color:var(--grey1);}
 
