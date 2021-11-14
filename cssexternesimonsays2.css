@@ -593,7 +593,7 @@ margin-top:20px; margin-left:55px;}
 
 .ma_img3{width:20px; height:20px; object-fit:cover; margin-top:10px; margin-right:-60px; margin-left:10px;border-radius:15px;}
 
-.rp_tt{text-align:right;margin-top:10px;font-family:love; font-size:14px;letter-spacing:2px;color: #3b325c;}
+.rp_tt{text-align:right;margin-top:10px;font-family:love; font-size:14px;letter-spacing:2px;color: rgba(138, 169, 187,0.6);}
 
 .rp_txt{margin: 0px 10px;
     overflow: auto;
