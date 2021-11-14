@@ -1055,7 +1055,7 @@ t_3, t_4 {
     background-color: rgba(138, 169, 187,0.9);
     border: 1px solid rgba(138, 169, 187);
     color: #e7e7dd;
-    text-shadow: 1px 1px 1px #291425;
+    text-shadow: 1px 1px 1px rgba(138, 169, 187);
     display: inline-block;
     float: right;
     font-family: arial;
@@ -1069,7 +1069,7 @@ t_3, t_4 {
 }
 t_4 {
     background-color: rgba(161, 158, 176,0.9)!important;
-    text-shadow: 1px 1px black;
+    text-shadow: 1px 1px rgb(161, 158, 176);
     border: 1px solid rgb(161, 158, 176)!important;
     float: left;
 }
