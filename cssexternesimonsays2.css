@@ -576,9 +576,7 @@ padding-top:5px;padding-bottom:5px;margin:auto;background-color:#fff;height:120p
 
 .pl_txt{border:1px solid #eeefee; width:193px; padding-right:6px; padding-left:6px; margin:auto;background-color:#fff;height:200px; outline:2px solid #f3f3f3; padding-top:4px; padding-bottom:4px; overflow: auto;}
 
-ss{line-height:17px; background-color:#8ca8ba; border:1px solid #8ca8ba; padding:1px 4px; color: white; text-transform:uppercase; font-size:7px; letter-spacing:1px; font-weight:600;}
-
-xx{line-height:17px; background-color:#a19daf; border:1px solid #a19daf; padding:1px 4px; color: white; text-transform:uppercase; font-size:7px; letter-spacing:1px; font-weight:600;}
+ss{font-family:arial;font-weight:700;font-size:7px;text-transform:uppercase;background-color:#8aa9bb; padding:3px 7px;border:1px solid #8aa9bb;color:#fff;text-shadow:1px 1px #7b96a5;}
 
 .sc_txt{border:1px solid rgb(241, 241, 241); width:249px;padding-right:6px;padding-left:6px; margin:auto;background-color:#fff;height:195px;outline:2px solid #f3f3f3; color: #919191; padding-top:4px;padding-bottom:4px;margin-top:-10px;overflow-y:auto;}
 
