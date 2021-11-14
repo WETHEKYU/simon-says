@@ -719,14 +719,14 @@ margin:auto; width:440px; padding:20px; padding-top:15px;position:relative; heig
 
 .thHead{
     background-image: none;
-    background-color: #ffffff;
+    background-color: #8ba9ba;
     border: 1px solid #eeefee00;
     outline: 1px solid #eeefee;
     height: 30px;
     line-height: 28px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #e9e9e9;
+    color: #fff;
     font-size: 8px!important;}
 .thHead2{margin-top:19px;margin-bottom:-10px;}
 
@@ -963,14 +963,14 @@ hh{color:#dadada; font-style:italic;transition:1s all;}
     font-weight: 700;
     font-size: 7px;
     text-transform: uppercase;
-    background-color: #323150;
+    background-color: #8aa9bb;
     padding: 3px 7px;
-    border: 1px solid #0c0b15;
+    border: 1px solid #8aa9bb;
     color: var(--white2);
-    text-shadow: 1px 1px #0c0b15;
+    text-shadow: 1px 1px #6d8695;
     line-height: 8px;
     display: inline-block;
-    border: 1px solid #323150;
+    border: 1px solid #8aa9bb;
     margin-bottom:10px;
 }
 #nv_membre{text-align:center;margin-left:0px; margin-bottom:-5px;}
