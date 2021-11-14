@@ -192,7 +192,7 @@ display:inline-block;
 
 
 /* GIF */
-#field_id17{position:absolute; top:1px; left:521px;}
+#field_id17{position:absolute; top:9px; left:521px;}
 #field_id17 span{display:none;}
 #field_id17 img{width:200px; opacity:0.7; height:76px; object-fit:cover;border:2px solid var(--couleur101); transition:1s all;}
 #field_id17 img:hover{height:40px; margin-top:16px; opacity:1;}
@@ -227,7 +227,7 @@ display:inline-block;
 #field_id1 span.gen{display:none;}
 
 /* FRUITZ */
-#field_id6{position:absolute; top:22px; left:400px; background-color:rgba(26,26,26,0.3); width:30px; height:30px; border-radius:20px; border:1px solid rgba(26,26,26,0.5);}
+#field_id6{position:absolute; top:6px; left:400px; background-color:rgba(26,26,26,0.3); width:30px; height:30px; border-radius:20px; border:1px solid rgba(26,26,26,0.5);}
 #field_id6 img{margin-left:-463px; margin-top:6px;}
 #field_id6 span{display:none;}
 
