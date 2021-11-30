@@ -1284,7 +1284,7 @@ transform: scale(1.5);image-rendering: pixelated;}
 #content_rules{display:none;margin-top:40px;}
 
 
-.fraise{height:70px; width:512px;margin-left:14px;margin-top:10px;object-fit:cover;filter:grayscale(1);opacity:0.6;position:relative;z-index:2;opacity:0.2;}
+.fraise{height:70px; width:512px;margin-left:14px;margin-top:10px;object-fit:cover;filter:grayscale(1);opacity:0.8;position:relative;z-index:2;}
 
 .peche{width:540px; height:276px; background-image:url('https://i.pinimg.com/564x/76/a4/15/76a4158ca763d07ab61d9097e6170a48.jpg');position:absolute;top:-84px;
 opacity:0.2;-moz-transform: scale(1, -1);
@@ -1297,6 +1297,7 @@ transform: scale(1, -1);}
 height:178px;margin-bottom:-36px; margin-top:0px;background-color:#FFFFFF;text-align:center;border:0px solid var(--grey2);opacity:1!important;position:relative;top:0px;left:7px;overflow:auto;}
 
 .caltt4{margin-top:-70px;color:white;position:relative;z-index:4;margin-left:70px;font-size:23px;height:70px;width:400px;text-align:center;line-height:70px;font-family:playfair display; text-transform:uppercase;position:relative;z-index:99;top:80px;}
+
 
 /* The Modal */
 .modal-content {
