@@ -391,7 +391,7 @@ line-height:18px;color:var(--grey17);}
 
 
 /***** MODELE STAFF   ******/
-.m_5 { background-color: var(--grey15); border: 1px solid #181818; padding:15px; text-align: justify; width:430px;
+.m_5 { background-color: var(--grey15); border: 1px solid var(--grey16); padding:15px; text-align: justify; width:430px;
 display:flex;}
 
 .m_tt1{display:flex; font-size:15px; font-family:oldenglish; color:var(--couleur3);}
@@ -400,7 +400,7 @@ display:flex;}
 
 .m_txt2{height:80px;overflow-y:auto;}
 
-.img_m2{width:90px; height:90px; object-fit:cover; border-radius:100px; margin-left:15px;  opacity:0.7; border:7px solid rgba(50,50,50);}
+.img_m2{width:90px; height:90px; object-fit:cover; border-radius:100px; margin-left:15px;  opacity:0.7; border:7px solid rgba(137, 183, 205,0.6);}
 .img_m3{width:90px; height:90px; object-fit:cover; border-radius:100px; margin-right:15px; margin-right:15px; opacity:0.7; border:7px solid rgba(10,10,10,0.2);}
 
 /******     BOTTINS      *****/
