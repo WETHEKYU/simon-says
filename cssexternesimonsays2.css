@@ -1962,6 +1962,7 @@ background-color:var(--couleur104);
 .code {background-color: var(--white6);border: 1px solid var(--white3);outline: solid 2px var(--grey15);color: var(--grey10);outline-offset: -5px;padding: 10px;}
 
 .codebox {width: 90%;}
+.codebox span.selectCode{position:relative;top:0px;}
 
 .code div.cont_code {max-height: 130px;padding: 5px;overflow: auto;text-align: justify; overflow-x: hidden;}
 
