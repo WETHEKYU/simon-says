@@ -1884,7 +1884,7 @@ background-color:var(--couleur104);
 
 #nv_membre a{font-family:Mulli; text-transform:uppercase; font-size:7px; letter-spacing:5px; line-height:30px; }
 
-.ss_qeel{width:764px; height:70px; border: 1px solid var(--couleur408);
+.ss_qeel{width:764px; height:73px; border: 1px solid var(--couleur408);
     outline: solid 1px var(--white1);
     outline-offset: 0;padding:5px; margin:auto;text-align:center;background-color:var(--white8);margin-top:20px;overflow-y:hidden;}
 
