@@ -2044,7 +2044,7 @@ transition: 1s all;
   border: 1px solid var(--white3);
     padding: 10px;margin-left: 10px;width: 100%;overflow: auto;}
 
- .lesmsgpv .sceditor-container{width:540px!important;}
+ .lesmsgpv .sceditor-container{width:540px!important;margin-top:-10px;}
  
  .mpfond input[type="radio" i]{width:10px;}
 .mpfond input[type="text" i]{width:256px!important;}
