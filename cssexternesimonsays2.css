@@ -403,7 +403,7 @@ height:56px!important;border:1px solid rgba(150,150,150,0.0);}
 
 .fa_ticker_content{font-size:10px; }
 
-.fa_ticker_content div{width:165px!important; background-color: var(--white6); border:1px solid var(--white3);
+.fa_ticker_content div{width:165px!important; background-color: var(--white6); border:1px solid var(--white6);
 margin-left:5px; margin-top:5px;
 height:50px; padding:5px 5px 5px 8px;white-space:normal!important;}
 
