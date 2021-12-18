@@ -953,7 +953,7 @@ box-shadow:0px 0px #FFFFFF!important;
 
 hr{width:100%;margin-top:8px;color:var(--white3);background-color:var(--white3);height:1px;border:0;}
 
-.fa_like_list{
+p.fa_like_list{
 background-color:var(--white6); 
 border:1px solid var(--white3);
 text-align:center;
@@ -965,7 +965,7 @@ height:16px;
 line-height:18px;
 color:var(--grey4);}
 
-.fa_dislike_list{background-color:var(--white6); 
+p.fa_dislike_list{background-color:var(--white6); 
 border:1px solid var(--white3);
 text-align:center;
 text-transform:lowercase;
