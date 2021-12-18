@@ -1636,7 +1636,7 @@ input#nb_rolls_0.post{border:1px solid var(--white501);}
 /*-------------------------------------           CATEGORIES           -------------------------------------*/
 .autourcate {padding:10px;}
 
-.autourcate h2{border: 1px solid var(--couleur1)!important;
+.autourcate h2{border: 1px solid var(--couleur409)!important;
     outline: solid 1px var(--white3)!important;
     outline-offset: 0;line-height:23px;!important;}
 
