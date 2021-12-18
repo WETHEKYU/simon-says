@@ -344,7 +344,7 @@ color:white!important;}
 }
 
 .playlist_img{width:50px!important; height:50px; object-fit:cover;
-margin-top:5px; margin-left:5px;
+margin-top:5px; margin-left:5px; border-radius:1px; border:1px solid var(--white1);
 transition:1s all;}
 
 .playlist_img:hover{width:40px!important; height:40px; object-fit:cover;
