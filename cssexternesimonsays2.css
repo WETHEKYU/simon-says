@@ -999,6 +999,8 @@ div.sceditor-group{border-bottom:0px solid!important;}
 
 .nav_bas{text-align:right;margin-top:5px;}
 
+.nav_bas .nav{margin-top:-28px;display:block;}
+
 .lanav_bas{margin-bottom:6px;}
 
 .nav .cate2, .nav .cate1, .nav .cate3, .nav .cate4, .nav .cate5, .nav .cate6{width:758px;margin-right:-50px; margin-left:14px!important;}
