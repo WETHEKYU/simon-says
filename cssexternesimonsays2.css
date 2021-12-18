@@ -133,7 +133,7 @@ font-size:9px;
 .staff{margin:0px auto;
 margin-top:2px;}
 
-.staff_img{width:48px; 
+.staff_img{width:38px; 
 height:60px;
 margin-top:4px;
 margin-bottom:12px;
@@ -157,6 +157,7 @@ border-radius:0px; filter:grayscale(0) contrast(100%);
     text-align: justify;
     width: 178px;
 }
+
 
 .staff_txt3{display:block;
 margin-top:10px; overflow-y:auto; 
