@@ -1027,7 +1027,7 @@ text-align:center;}
 .tour_blog{background-color:var(--white501); width:460px; margin:auto;margin-top:10px;padding:10px; padding-bottom:0px;
 border:1px solid var(--white3);}
 
-.blog_comment-avatar img{outline:1px solid var(--white1); outline-offset:3px; width:70px; height:70px; object-fit:cover; margin-left:10px; border-radius:50px; opacity:0.7; transition:1s all;}
+.blog_comment-avatar img{outline:1px solid var(--white1); outline-offset:3px; width:70px!important; height:70px!important; object-fit:cover; margin-left:10px; border-radius:50px; opacity:0.7; transition:1s all;}
 
 .blog_comment-avatar img:hover{border-radius:0px; opacity:1;}
 
