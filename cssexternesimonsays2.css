@@ -1722,7 +1722,7 @@ padding-top:11px;
 
 .descriptionfo {background-color: transparent; width:426px; height:70px; position: absolute; right: 5px; top: 25px; padding:5px;}
 
-.textefo {background-color:var(--white6); border-left: var(--couleur102) 3px solid; text-align: justify; height: 50px; overflow: auto; padding: 10px;}
+.textefo {background-color:var(--white6); border-left: var(--couleur102) 0px solid; text-align: justify; height: 50px; overflow: auto; padding: 10px;}
 
 .imagefo {width:64px; height: 64px; 
 object-fit: cover; 
