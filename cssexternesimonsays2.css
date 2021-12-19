@@ -1632,6 +1632,8 @@ input#nb_rolls_0.post{border:1px solid var(--white501);}
 
 #dice_to_del{filter:contrast(16%) brightness(190%);}
 
+input.post{margin-bottom:10px;margin-top:2px;}
+
 
 /*-----------------------------------------------------------            INDEX DU FORUM                 -------------------------------------------------------*/
 
