@@ -1582,7 +1582,6 @@ text-transform:uppercase; letter-spacing:3px; font-family:'glamore'; font-size:1
 .fp_2{background: var(--white6);
     border: 1.5px solid var(--white3);
     max-height: 550px;
-    outline: 10px solid #8ca8ba;
     padding: 10px 0;
     width: 547px;}
 
