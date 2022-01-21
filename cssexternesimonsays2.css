@@ -480,8 +480,10 @@ text-transform:uppercase; letter-spacing:0px;max-width:130px;margin:auto;}
     left: -13px;
     opacity: 0.7;
     position: absolute;
-    top: 21px!important;
-    width: 216px;}
+    top: 17px!important;
+    width: 216px;
+height: 216px;
+object-fit:cover;}
 
 
 .nm_rg{border:1px solid var(--couleur109);
