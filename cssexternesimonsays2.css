@@ -1667,7 +1667,7 @@ input.post{margin-bottom:10px;margin-top:2px;}
     display: flex; flex-direction: row; font-family: 'kiona';
     color: var(--couleur1);
     font-size: 8px;justify-content: space-evenly;letter-spacing: 3px;padding: 7px;text-transform: uppercase; margin-top:4px;}
-.lienscate a {font-family: kiona!important; color: var(--couleur102)!important;}
+.lienscate a {font-family: kiona!important; color: var(--couleur1)!important;}
 
 .border-forum {
     background-color: var(--white8);
