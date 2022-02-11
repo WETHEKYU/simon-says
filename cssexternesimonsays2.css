@@ -79,12 +79,12 @@ background-color:rgba(250,250,250,0.1);}
 
 .c_pa_bn {
     border: 1px solid var(--couleur209);
-    height: 266px;
-    margin: 6px auto 10px;
+    height: 280px;
+    margin: 6px auto 0px;
     outline: solid 0px var(--white5);
     outline-offset: 0;
     padding-right: 1px;
-    padding-top: 94px;
+    padding-top: 80px;
     width: 781px;}
 
 .c_pa{display:flex; 
@@ -93,7 +93,7 @@ width:772px;
 height:350px;
 margin-left:auto;
 margin-right:auto;
-  margin-top:-94px;
+  margin-top:-80px;
 padding:4px;
 background-color:var(--white8);
   border:1px solid var(--white1);
