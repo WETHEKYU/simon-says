@@ -2326,6 +2326,12 @@ font-size:11px;font-family:Quicksand;}
 .relativpos2{position:relative;top:30%;}
 
 
+/* IMAGES DES EXAMS */
+img[src*="https://images2.imgbox.com/f9/47/DSyTPTsb_o.png"], img[src*="https://images2.imgbox.com/42/0e/ZOFUxkiK_o.png"], img[src*="https://images2.imgbox.com/97/cb/TQ0mCYet_o.png"], img[src*="https://images2.imgbox.com/97/88/OnZjcOPp_o.png"], img[src*="https://images2.imgbox.com/3b/46/2EeswZbA_o.png"], img[src*="https://images2.imgbox.com/73/77/nq3rr5ET_o.png"], img[src*="https://images2.imgbox.com/5e/f1/N1rpqTNF_o.png"], img[src*="https://images2.imgbox.com/2c/e9/kjG1Wmqh_o.png"], img[src*="https://images2.imgbox.com/a7/4b/oPmJQzpc_o.png"], img[src*="https://images2.imgbox.com/17/65/c8SXGEPw_o.png"], img[src*="https://images2.imgbox.com/19/e0/Q60mQUwk_o.png"], img[src*="https://images2.imgbox.com/7a/c6/WcFFVujm_o.png"], img[src*="https://images2.imgbox.com/c3/d4/Bsajl5KV_o.png"], img[src*="https://images2.imgbox.com/2e/3b/aIJxpqx5_o.png"], img[src*="https://images2.imgbox.com/d0/ce/0SqoMFty_o.png"], img[src*="https://images2.imgbox.com/9c/a6/Apd7uLy0_o.png"], img[src*="https://images2.imgbox.com/2a/2a/wtVc5iFn_o.png"], img[src*="https://images2.imgbox.com/d2/26/EzE7CbdT_o.png"], img[src*="https://images2.imgbox.com/0b/78/U1WTRicv_o.png"], img[src*="https://images2.imgbox.com/c9/a3/nNxtmhVm_o.png"], img[src*="https://images2.imgbox.com/6a/3e/wlfaPW9L_o.png"]{
+       width:250px;
+height:150px;
+      }
+
 /*-------------------------------------------------- CODAGE JOURNAL --------------------------------------------------*/
 .fp_2.jrnl1{outline:none;max-height: fit-content;display: inline-block;padding: 0px 10px 10px 10px;text-align: justify;width: 522px;}
 .fp_2.jrnl2{font-family: kaftan;background: -webkit-linear-gradient(-170deg,#8aa9bb,#a19daf);margin-top: -3px;opacity: 0.9;margin-left: -12px;
