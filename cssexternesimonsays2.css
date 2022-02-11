@@ -911,7 +911,7 @@ letter-spacing:0.5px;
 margin-right:2px;
 margin-top:-10px;}
 
-.btns_pst a{color:var(--couleur406)!important; margin-right:1px;
+.btns_pst a{color:var(--couleur1)!important; margin-right:1px;
 transition:2s all;}
 
 .btns_pst a:hover{letter-spacing:3px;
