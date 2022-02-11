@@ -1932,23 +1932,26 @@ background-color:var(--couleur104);
     top: 43px;
     height: 20px;
     width: 99px;
+object-fit:cover;
 }
 
-.nouveauxmessages {background-image: url(https://images2.imgbox.com/cf/c7/Gtc1F3S1_o.png);
+.nouveauxmessages {background-image: url(https://images2.imgbox.com/5e/9e/uCRHav1F_o.png);
     height: 28px;
     width: 90px;
     background-size: 93px;
     background-position: center;
     opacity: 0.7;
     border: 1px solid var(--white3);
+	
 }
-.pasdenouveauxmessages {background-image: url(https://images2.imgbox.com/93/08/ijuPFq8y_o.png);
+.pasdenouveauxmessages {background-image: url(https://images2.imgbox.com/5e/9e/uCRHav1F_o.png);
     height: 28px;
     width: 90px;
     background-size: 90px;
     background-position: center;
     opacity: 0.6;
     border: 1px solid var(--white3);
+	
 }
 .forumverrouille {background-image: url(https://images2.imgbox.com/5e/9e/uCRHav1F_o.png);height: 28px;width: 90px;background-size: cover;opacity: 0.9;}
 
