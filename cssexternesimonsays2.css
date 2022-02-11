@@ -354,7 +354,7 @@ filter:grayscale(60%);}
 
 .playlist_tt_txt{display:flex; flex-direction:column; width:140px; margin-top:-3px;}
 
-.playlist_tt_txt a{color:var(--couleur402);}
+.playlist_tt_txt a{color:var(--couleur202);}
 
 .playlist_txt{text-align:center; width:150px; height:50px;
 font-family:"STIX Two Math";
