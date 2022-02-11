@@ -1724,11 +1724,11 @@ padding-top:11px;
 
 .ListeSousForums {font-size:0px;}
 
-.ListeSousForums a {font-size:7px; padding-right:5px; letter-spacing:1.5px; color: var(--couleur402)!important; font-weight:900;}
+.ListeSousForums a {font-size:7px; padding-right:5px; letter-spacing:1.5px; color: var(--couleur202)!important; font-weight:900;}
 
 .ListeSousForums a:last-child {padding-right:0px;}
 
-.ListeSousForums a:after {content:" - "; font-size:11px; color:var(--couleur407);}
+.ListeSousForums a:after {content:" - "; font-size:11px; color:var(--couleur106);}
 
 .descriptionfo {background-color: transparent; width:426px; height:70px; position: absolute; right: 5px; top: 25px; padding:5px;}
 
