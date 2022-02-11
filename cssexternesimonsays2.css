@@ -1720,7 +1720,7 @@ padding-top:11px;
 
 .sousforums{border-top:1px solid var(--white1); width: 656px; position: absolute; left: 85px; top: 105px; text-align: center; padding:3px;}
 
-.sousforums a{ color: var(--couleur405)!important; font-size: 9px; font-weight: 100; letter-spacing: 0px; text-transform: lowercase; font-family: kiona;}
+.sousforums a{ color: var(--couleur205)!important; font-size: 9px; font-weight: 100; letter-spacing: 0px; text-transform: lowercase; font-family: kiona;}
 
 .ListeSousForums {font-size:0px;}
 
