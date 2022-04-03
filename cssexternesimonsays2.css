@@ -575,7 +575,7 @@ margin-top:6px;}
 .fruitz_cps img{max-width:16px;max-height:16px;}
 
 .ddi_cps span.label{display:none;}
-.ddi_cps{border:1px solid var(--couleur104); height:12px;padding-top:4px; margin:auto; color:var(--couleur101); display:flex; justify-content:space-around;
+.ddi_cps{border:1px solid var(--couleur408); height:12px;padding-top:4px; margin:auto; color:var(--couleur4); display:flex; justify-content:space-around;
 text-transform:uppercase; font-size:7px; margin-top:17px; width:178px; }
 
 .aes_cps span.label{display:none;}
@@ -1936,7 +1936,7 @@ background-color:var(--couleur104);
 object-fit:cover;
 }
 
-.nouveauxmessages {background-image: url(https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png);
+.nouveauxmessages {background-image: url(https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png)!important;
     height: 28px;
     width: 90px;
     background-size: 93px;
@@ -1945,7 +1945,7 @@ object-fit:cover;
     border: 1px solid var(--white3);
 	
 }
-.pasdenouveauxmessages {background-image: url(https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png);
+.pasdenouveauxmessages {background-image: url(https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png)!important;
     height: 28px;
     width: 90px;
     background-size: 300px auto;
@@ -1954,22 +1954,22 @@ object-fit:cover;
     border: 1px solid var(--white3);
 	
 }
-.forumverrouille {background-image: url(https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png);
+.forumverrouille {background-image: url(https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png)!important;
 	background-position: -200px 380px!important;
 	height: 28px;width: 90px;background-size: 400px auto;opacity: 0.9;}
 
-.pasdenouveauxmessagestopics {background-image: url('https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png'); 
+.pasdenouveauxmessagestopics {background-image: url('https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png')!important; 
   width:99px; height:20px;
 background-size: 300px auto;
     background-position: -200px 400px!important;}
 
 .nouveauxmessagestopics {
-    background-image: url('https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png');
+    background-image: url('https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png')!important;
  height: 20px; width: 99px;
 background-size: 93px;
     background-position: center;}
 
-.forumverrouilletopics {background-image: url('https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png'); 
+.forumverrouilletopics {background-image: url('https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png')!important; 
    background-size: 300px auto;
     background-position: -200px 400px!important; width: 230px; height: 68px;}
 
