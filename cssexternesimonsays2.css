@@ -556,11 +556,11 @@ outline-offset:-4px;}
 outline:1px solid var(--couleur109);
 outline-offset:-4px;}
 
-.label_cust{text-transform:lowercase; font-style:italic; font-size:7px; color:var(--couleur104); letter-spacing:1px; text-align:center; margin-top:14px;}
+.label_cust{text-transform:lowercase; font-style:italic; font-size:7px; color:var(--couleur1); letter-spacing:1px; text-align:center; margin-top:14px;}
 
 .messages_cps span.label, .nb_rp span.label, .simflouz span.label{display:none;}
 
-.messages_cps div.inf_pst, .nb_rp div.inf_pst, .simflouz div.inf_pst{text-align:center; color:var(--couleur104)}
+.messages_cps div.inf_pst, .nb_rp div.inf_pst, .simflouz div.inf_pst{text-align:center; color:var(--couleur1)}
 
 .tites_icns{display:flex;justify-content:center;
 margin-top:6px;}
@@ -634,17 +634,17 @@ display:inline-block;
 #field_id17 img:hover{height:40px; margin-top:16px; opacity:1;}
 
 /* MSG */
-#field_id-6{position:absolute; top:473px; left:170px; border:0px solid; width:50px; height:50px; text-align:center; line-height:35px;font-size:7px; color:var(--couleur403);}
+#field_id-6{position:absolute; top:473px; left:170px; border:0px solid; width:50px; height:50px; text-align:center; line-height:35px;font-size:7px; color:var(--couleur402);}
 #field_id-6 span{display:none;}
 
 
 
 /* SIMFLOUZ */
-#field_id-13{position:absolute; top:473px; left:14px;  border:0px solid;width:50px; height:50px; text-align:center; line-height:35px;font-size:7px; color:var(--couleur403);}
+#field_id-13{position:absolute; top:473px; left:14px;  border:0px solid;width:50px; height:50px; text-align:center; line-height:35px;font-size:7px; color:var(--couleur402);}
 #field_id-13 span{display:none;}
 
 /* RPS */
-#field_id18{position:absolute; top:473px; left:92px; border:0px solid;width:50px; height:50px; text-align:center; line-height:35px;font-size:7px; color:var(--couleur403);}
+#field_id18{position:absolute; top:473px; left:92px; border:0px solid;width:50px; height:50px; text-align:center; line-height:35px;font-size:7px; color:var(--couleur402);}
 #field_id18 span{display:none;}
 
 .pf_inf3{background-color:var(--white8); border:1px solid var(--white3); text-transform:uppercase; font-size:7px; color:var(--couleur402); letter-spacing:0.5px; outline:2px solid var(--white6); outline-offset:-7px;}
