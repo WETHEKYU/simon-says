@@ -1939,11 +1939,11 @@ object-fit:cover;
 .nouveauxmessages {background-image: url(https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png)!important;
     height: 28px;
     width: 90px;
-    background-size: 93px;
+    background-size: 315px;
     background-position: center;
-    opacity: 0.7;
+    opacity: 1;
     border: 1px solid var(--white3);
-	
+	background-position: -151px 458px!important;
 }
 .pasdenouveauxmessages {background-image: url(https://images2.imgbox.com/3f/ef/Mr8VoRY5_o.png)!important;
     height: 28px;
