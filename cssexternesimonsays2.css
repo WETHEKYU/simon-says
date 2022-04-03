@@ -811,7 +811,7 @@ td.catRight, td.row3Right, th.thRight{border-right:1px solid var(--white6);}
 
 ru{font-family:arial;text-transform:uppercase;
 font-size:7px;font-weight:500;background-color:var(--couleur102);padding-right:5px; padding-left:5px;display:inline-block;margin-top:-6px;
-color:var(--white2);height:11px;line-height:11px;border:1px solid var(--couleur1);transition:1.5s all;}
+color:var(--white1);height:11px;line-height:11px;border:1px solid var(--couleur1);transition:1.5s all;}
 
 mu{font-family:arial;text-transform:uppercase;font-size:7px;font-weight:500;background-color:var(--couleur202);padding-right:5px; padding-left:5px;display:inline-block;margin-top:-6px;
 color:var(--white1);height:11px;line-height:11px;border:1px solid var(--couleur2);transition:1s all;}
